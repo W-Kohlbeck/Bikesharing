@@ -1,5 +1,8 @@
 # Bikesharing in NYC
 
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/102195085/181407515-46154e45-2ddb-4eaf-b1aa-d2fccfb52e12.png">
+
+
 ## Overview
 Analysis is needed to determine the viability of a bike sharing business in Des Moines, IA. In order to determine potential factors to consider in starting a bikesharing company CitiBike data was used from bike sharing in New York City. For this project Tableau and Python were used to manipulate and visualize the results of the analysis. 
 
@@ -18,3 +21,5 @@ For additional visualizations and information a dashboard has been created and s
 [link to Tableau dashboard](https://public.tableau.com/app/profile/william.kohlbeck/viz/BikeShareChallenge_16587696806680/BikeSharingTripAnalysis?publish=yes)
 
 ## Summary
+
+Overall the highest demand for bike sharing comes from the male gender where rides would be on average five minutes. To determine if the business woudl be viable in Des Moines further analysis of the Des Moines populatioon would be needed. Also finding average commutes between public transit stations and major places of employment would want to be considered. 
